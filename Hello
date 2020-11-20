@@ -1,0 +1,4 @@
+string A
+input A
+first_word("Hello world") == "Hello"
+output A
